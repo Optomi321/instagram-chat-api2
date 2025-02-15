@@ -1,0 +1,12 @@
+{
+  "name": "instagram-chat-api",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node backend/server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "axios": "^0.21.1",
+    "dotenv": "^10.0.0"
+  }
+}
